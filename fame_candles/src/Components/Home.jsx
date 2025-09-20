@@ -1,5 +1,6 @@
 import React from "react";
 import "../Components/Styles/Home.css";
+import "../../src/Components/styles/Home.css"
 import { FaInstagram } from "react-icons/fa";
 import { FaWhatsapp } from "react-icons/fa";
 import candle_img from "../assets/candle.jpg";
